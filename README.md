@@ -11,6 +11,7 @@
 - C++
 - Python
 - MongoDB
+- MySQL
 - Firebase
 - HTML
 - CSS
